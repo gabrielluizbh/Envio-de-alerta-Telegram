@@ -1,4 +1,4 @@
-# Envio-de-alerta---Telegram
+# Envio-de-alerta-Telegram
 Script do Powershell para envio de alerta do Telegram usando o Agendador de Tarefas do Windows.
 Para maior entendimento deste script acesso o link do artigo abaixo: https://gabrielluizbh.000webhostapp.com/2019/06/alerta-telegram
 
