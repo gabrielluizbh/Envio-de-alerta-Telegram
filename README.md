@@ -2,7 +2,7 @@
 
 Script do Powershell para envio de alerta do Telegram usando o Agendador de Tarefas do Windows.
 
-Contéudo:
+Conteúdo:
 
 Bat e Tarefas do Agendador de Tarefas do Windows.zip - Bat para execução do script do Powershell do Telegram e Tarefas do Agendador de Tarefas do Windows para importação no Windows Server 2016 e 2019.
 
